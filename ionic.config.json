@@ -1,0 +1,7 @@
+{
+  "name": "Pagos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
