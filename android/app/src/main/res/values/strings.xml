@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Pagos01</string>
+    <string name="title_activity_main">Pagos01</string>
+    <string name="package_name">com.pagos01.app</string>
+    <string name="custom_url_scheme">com.pagos01.app</string>
+</resources>
